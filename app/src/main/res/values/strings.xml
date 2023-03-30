@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginConsultorio</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="text_Cadastro">Crie uma Conta </string>
+    <string name="titulo_Cadastro">Faça Seu Cadastro</string>
+
+
+</resources>

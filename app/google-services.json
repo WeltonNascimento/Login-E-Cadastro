@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190269217752",
+    "project_id": "login-consultorio-97a5d",
+    "storage_bucket": "login-consultorio-97a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190269217752:android:343c991c2189807d4370ad",
+        "android_client_info": {
+          "package_name": "com.example.loginconsultorio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190269217752-84k4qqfr3hpe7241o17872scgrn5hrdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5NjPJXQaqNWT7ccXze4jDW7T1Yi5mcq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190269217752-84k4qqfr3hpe7241o17872scgrn5hrdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
